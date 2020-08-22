@@ -330,7 +330,7 @@ TotalBsmtSF: Total square feet of basement area
 
 Heating: Type of heating
 		
-       Floor	Floor Furnace
+       Floor	Floor Furnace3
        GasA	Gas forced warm air furnace
        GasW	Gas hot water or steam heat
        Grav	Gravity furnace	
