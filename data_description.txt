@@ -105,7 +105,6 @@ Neighborhood: Physical locations within Ames city limits
        StoneBr	Stone Brook
        Timber	Timberland
        Veenker	Veenker
-			
 Condition1: Proximity to various conditions
 	
        Artery	Adjacent to arterial street
